@@ -1,6 +1,6 @@
 # Desafio — Copiloto com Fluxo de Conversa Personalizado 
 
-## 💡 Objetivo desenvolver um copiloto personalizado utilizando o Microsoft Copilot Studio, com foco 
+### 💡 Objetivo: desenvolver um copiloto personalizado utilizando o Microsoft Copilot Studio, com foco 
 na criação de fluxos de conversa automatizados e personalizados para simular atendimentos interativos.
 ## 📚  Aprendi a:
 
@@ -9,13 +9,13 @@ na criação de fluxos de conversa automatizados e personalizados para simular a
 - Utilizar variáveis para armazenar e reutilizar informações ao longo da conversa.
 - Realizei testes simulando para saber os ajustes e refinamento da experiência conversacional.
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 - Microsoft Copilot Studio
 - IA generativa com base em prompts
 - Fluxos baseados em lógica condicional
 
-## ✅ Resultado
+## ✅ **Resultado:**
 Copiloto funcional com fluxo de conversa interativo, preparado para  fornecer suporte aos usuários de forma eficiente.
 Essa experiência me proporcionou uma compreensão prática de como criar agentes conversacionais eficientes, com personalização
 e boa usabilidade para o usuário final.
